@@ -1,1 +1,1 @@
-# script_snowflake
+Useful codes used for in the snowflake database
